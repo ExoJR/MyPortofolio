@@ -1,0 +1,26 @@
+{
+  "name": "my-portofolio",
+  "version": "1.0.0",
+  "description": "My portofolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "ExoJR",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@parcel/source-map": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExoJR/MyPortofolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ExoJR/MyPortofolio/issues"
+  },
+  "homepage": "https://github.com/ExoJR/MyPortofolio#readme"
+}
